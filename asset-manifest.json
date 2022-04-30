@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minti-app/static/css/main.073c9b0a.css",
+    "main.js": "/minti-app/static/js/main.084d59b9.js",
+    "static/js/787.f1f0ece3.chunk.js": "/minti-app/static/js/787.f1f0ece3.chunk.js",
+    "index.html": "/minti-app/index.html",
+    "main.073c9b0a.css.map": "/minti-app/static/css/main.073c9b0a.css.map",
+    "main.084d59b9.js.map": "/minti-app/static/js/main.084d59b9.js.map",
+    "787.f1f0ece3.chunk.js.map": "/minti-app/static/js/787.f1f0ece3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.084d59b9.js"
+  ]
+}
